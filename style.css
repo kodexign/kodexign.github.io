@@ -6,7 +6,10 @@ body {
   background-color:#d8e5e5;
   margin-top: 20px;
   margin-bottom: 20px;
+  border-radius: 25px;
   height: 1000px;
+  
+ 
 }
 .about-me{
   border-bottom-style: double;
@@ -18,20 +21,26 @@ body {
   border-style: double;
   margin: 10px;
   padding: 10px;
-  overflow: auto;  
+  height: 980px;
+  overflow: auto;
+  
 }
+
 .left{
   float: left;
   margin-right: 10px;
-  width:30%;  
+  width: 30%;
+  height: 980px;
+  overflow: auto;
 }
+
 img {
     display: block;
     margin: auto;  
 }
 h1 {
   font-size: 75px;
-  font-family: Arial;
+  font-family: Audiowide;
   font-color: #5f7e67;
   text-align: center;
   text-decoration: bold;
@@ -43,7 +52,7 @@ h1 {
 }
 h2 {
   font-size: 25px;
-  font-family: Arial;
+  font-family:Atma;
   font-color: #5f7e67;
   text-align: center;
   text-decoration: underline;
@@ -53,7 +62,7 @@ h2 {
   text-size-adjust: auto;
 }
 p {
-  font-family: arial;
+  font-family: Atma;
   font-size: 15pt;
   
 }
