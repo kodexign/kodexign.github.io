@@ -7,9 +7,7 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
   border-radius: 25px;
-  height: 1000px;
-  
- 
+  height: 1000px; 
 }
 .about-me{
   border-bottom-style: double;
@@ -59,6 +57,14 @@ h2 {
   background-color: white;
   border-bottom-style: dashed;
   border-color: black;
+  text-size-adjust: auto;
+}
+h3 {
+font-size: 15px;
+  font-family:Atma;
+  font-color: #5f7e67;
+  text-align: center;
+  text-decoration: underline;
   text-size-adjust: auto;
 }
 p {
