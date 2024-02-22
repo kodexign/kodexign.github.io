@@ -26,7 +26,7 @@ body {
 
 .left{
   float: left;
-  margin-right: 10px;
+  margin-left: 10px;
   width: 30%;
   height: 850px;
   overflow: auto;
