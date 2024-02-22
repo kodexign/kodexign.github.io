@@ -19,7 +19,7 @@ body {
   border-style: double;
   margin: 10px;
   padding: 10px;
-  height: 800px;
+  height: 850px;
   overflow: auto;
   
 }
@@ -28,7 +28,7 @@ body {
   float: left;
   margin-right: 10px;
   width: 30%;
-  height: 800px;
+  height: 850px;
   overflow: auto;
 }
 
