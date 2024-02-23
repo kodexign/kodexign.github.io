@@ -16,6 +16,7 @@ body {
 .main-content{
   border-color: #000;
   border-style: double;
+  border-radius: 25px;
   margin: 10px;
   padding: 10px;
   height: 825px;
