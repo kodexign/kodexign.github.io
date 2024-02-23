@@ -10,7 +10,6 @@ body {
   height: 1000px; 
 }
 .about-me{
-  border-bottom-style: double;
   border-color:#445a4a;
   margin: 10px;
 }
@@ -26,6 +25,7 @@ body {
 
 .left{
   float: left;
+  border-bottom-style: double;
   margin-left: 10px;
   width: 30%;
   height: 860px;
